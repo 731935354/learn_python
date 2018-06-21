@@ -7,7 +7,7 @@
 	* 在[这里](https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/)下载合适的安装包。(此处提供的是清华镜像网站，下载速度远远优于Anaconda官方网站。`Windows`平台的默认带有`python3`解释器的`64位`版本名称为：`Anaconda3-x.x.x-Windows-x86_64.exe`，其中`x.x.x`为版本号，`Anaconda2`则表示默认带有`python2`解释器。)
     * [安装指南](https://blog.csdn.net/u012318074/article/details/77075209)
 * Pycharm：IDE
-    * [下载](https://www.jetbrains.com/pycharm/download/#section=windows)安装包，选择`Community`版本即可。
+    * [下载](https://www.jetbrains.com/pycharm/download/#section=windows)安装包，选择`Community`版本即可
     * 安装
     * [配置python解释器](https://blog.csdn.net/guifei010/article/details/79210034)，Anaconda自带的解释器位于安装目录下的`python.exe`
 
@@ -26,7 +26,7 @@
 
 
 ## 2. python基础
-* 如果有编程基础，建议快速浏览[廖雪峰的python教程](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)，当发现第3部分难度过大时再重新学习该部分，如果感觉博客难以理解，可以学习以下网课。
+* 如果有编程基础，建议快速浏览[廖雪峰的python教程](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)，当发现第3部分难度过大时再重新学习该部分，如果感觉博客难以理解，可以学习以下网课
 * 网课推荐(官方推荐用时：7周)：[Programming for Everybody](https://www.coursera.org/learn/python/home/welcome)
 
 ## 3. python数据科学入门
@@ -38,17 +38,17 @@
 
 免费版：  
 
-* 可以选择“旁听课程”，观看课程视频和ppt，完成编程作业(没有官方评分，可以和老师同学讨论)。
-* 如果Coursera平台视频无法播放，可以参考[这里](https://jingyan.baidu.com/article/6f2f55a14059eeb5b93e6cab.html)。
+* 可以选择“旁听课程”，观看课程视频和ppt，完成编程作业(没有官方评分，可以和老师同学讨论)
+* 如果Coursera平台视频无法播放，可以参考[这里](https://jingyan.baidu.com/article/6f2f55a14059eeb5b93e6cab.html)
 
 投机取巧版：  
 
 * 先选择“旁听课程”，把所有课程资料刷完，然后“注册”课程，在一周之内刷编程作业。
 
 ## 4. 常用资料
-* 检验python学习成果？[leetcode](https://leetcode.com/)(建议做简单和中等难度题目)。
-* 不知道该用什么函数？不知道函数的“花样”用法，每天看几次[pandas官方文档](http://pandas.pydata.org/pandas-docs/stable/)。
-* 写python遇到问题？[StackOverflow](https://stackoverflow.com/)各种大牛为你解答。
-* 用python实现量化交易策略？[优矿](https://uqer.datayes.com/)。
+* 检验python学习成果？[leetcode](https://leetcode.com/)(建议做简单和中等难度题目)
+* 不知道该用什么函数？不知道函数的“花样”用法，每天看几次[pandas官方文档](http://pandas.pydata.org/pandas-docs/stable/)
+* 写python遇到问题？[StackOverflow](https://stackoverflow.com/)各种大牛为你解答
+* 用python实现量化交易策略？[优矿](https://uqer.datayes.com/)
 
 
